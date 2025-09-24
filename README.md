@@ -26,7 +26,7 @@
 
 ### Эпическая сага (Epic Saga) САО
 
-<img src="images/epicSaga.jpg">
+<img src="images/epicSaga.jpg" width="400">
 
 <b>Описание:</b> Паттерн Эпическая сага (Epic Saga) является "традиционным паттерном",
 который понимают многие архитекторы под сагой оркестрацией. Данный паттерн имитирует поведение монолитной системы.
@@ -54,11 +54,11 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/epicSagaSchema.jpg">
+<img src="images/schemas/epicSagaSchema.jpg" width="400">
 
 ### Переписка (Phone Tag Saga) САХ
 
-<img src="images/phoneTagSaga.jpg">
+<img src="images/phoneTagSaga.jpg" width="400">
 
 <b>Описание:</b> Паттерн Переписка (Phone Tag Saga) получил свое название, поскольку
 напоминает известную детскую игру Испорченный телефон: дети становятся в круг, и первый
@@ -75,7 +75,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/phoneTagSchema.jpg">
+<img src="images/schemas/phoneTagSchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -91,7 +91,7 @@
 
 ### Сказка (Fairy Tale Saga) СПО
 
-<img src="images/fairyTaleSaga.jpg">
+<img src="images/fairyTaleSaga.jpg" width="400">
 
 <b>Описание:</b> Чаще всего в сказках рассказываются веселые истории с простыми сюжетами. Паттерн
 Сказка (Fairy Tale Saga) именно поэтому получил такое название.
@@ -103,7 +103,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/fairyTaleSchema.jpg">
+<img src="images/schemas/fairyTaleSchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -119,7 +119,7 @@
 
 ### Путешествие во времени (Time Travel Saga) СПХ
 
-<img src="images/timeTravelSaga.jpg">
+<img src="images/timeTravelSaga.jpg" width="400">
 
 <b>Описание:</b> В паттерне Путешествие во времени (Time Travel Saga) каждый сервис принимает запрос,
 выполняет действие и передает запрос другому сервису. Сага очень похожа на паттерн проектирования
@@ -132,7 +132,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/timeTravelSchema.jpg">
+<img src="images/schemas/timeTravelSchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -148,7 +148,7 @@
 
 ### Фантастика (Fantasy Fiction Saga) ААО
 
-<img src="images/fantasyFictionSaga.jpg">
+<img src="images/fantasyFictionSaga.jpg" width="400">
 
 <b>Описание:</b> Паттерн Фантастика (Fantasy Fiction Saga) добавляет асинхронности к оркестрации. Не можем полагаться
 на порядок действий и это увеличивает вероятность взаимоблокировок, появления состояния гонки и множество других проблем,
@@ -158,7 +158,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/fantasyFictionSchema.jpg">
+<img src="images/schemas/fantasyFictionSchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -174,7 +174,7 @@
 
 ### Ужасы (Horror Story) ААХ
 
-<img src="images/horrorStory.jpg">
+<img src="images/horrorStory.jpg" width="400">
 
 <b>Описание:</b> Ужасы (Horror Story) является антипаттерном. Название говорит само за себя - Ужасы, которые
 стоит избегать. Худшая комбинация характеристик из все саг.
@@ -183,7 +183,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/horrorStorySchema.jpg">
+<img src="images/schemas/horrorStorySchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -199,7 +199,7 @@
 
 ### Параллельная сага (Parallel Saga) АПО
 
-<img src="images/parallelSaga.jpg">
+<img src="images/parallelSaga.jpg" width="400">
 
 <b>Описание:</b> Паттерн Параллельная сага (Parallel Saga) использует посредника, что делает его подходящим для
 реализации сложных рабочих процессов.
@@ -210,7 +210,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/parallelSagaSchema.jpg">
+<img src="images/schemas/parallelSagaSchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
@@ -226,7 +226,7 @@
 
 ### Антология сага (Anthology Saga) АПХ
 
-<img src="images/anthologySaga.jpg">
+<img src="images/anthologySaga.jpg" width="400">
 
 <b>Описание:</b> Паттерн Антология (Anthology Saga) является самый высокопроизводительным и наименее связанным паттерном.
 Если нужна максимальная производительность и рабочие процессы простые и требуют простую обработку ошибок, тогда этот
@@ -238,7 +238,7 @@
 
 #### Схема взаимодействий
 
-<img src="images/schemas/anthologySchema.jpg">
+<img src="images/schemas/anthologySchema.jpg" width="400">
 
 ### Оценка характеристик паттерна
 
